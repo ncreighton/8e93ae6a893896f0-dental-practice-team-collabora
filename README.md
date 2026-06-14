@@ -1,2 +1,28 @@
-# 8e93ae6a893896f0-dental-practice-team-collabora
-Professional team collaboration workspace plugin built for dental practice operations and growth.
+# Dental Practice Team Collaboration Workspace Plugin
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic functionality | Yes | Yes |
+| Community support | Yes | Yes |
+| Standard features | Yes | Yes |
+| Advanced automation | - | Yes |
+| Priority support | - | Yes |
+| Custom configurations | - | Yes |
+| Auto-updates | - | Yes |
+| Premium integrations | - | Yes |
+| Unlimited usage | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/00w4gzh1B6Ak6xy47qcZd0W)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/00w4gzh1B6Ak6xy47qcZd0W)
+
